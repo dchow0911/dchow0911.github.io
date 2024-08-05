@@ -119,4 +119,4 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dchow0911&show_icons=true&theme=radical)
