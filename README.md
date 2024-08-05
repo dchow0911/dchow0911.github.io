@@ -67,7 +67,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 #### Digitizing of business operations and developing operational dashboards in Microsoft Excel
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://docs.google.com/spreadsheets/d/1y13cAnJ7Lg3zy2juUYk01tHm1Uwk_5Yy/edit?usp=share_link&ouid=102142818903203710485&rtpof=true&sd=true)
 - [Project Link](https://drive.google.com/file/d/1xtWtIN-_BDFN6xZxbXyoIAwk3HF6fn7P/view?usp=share_link)
 
 #### Hyundai Supply Chain management and analysis
@@ -115,17 +115,14 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 #### Nike Air into the Metaverse
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
 - [Project Link](https://drive.google.com/file/d/1jG9d53QQQge4FkTtyRF1GsIP5LmJtsxt/view?usp=sharing)
 
 #### Analyzing the International Business Strategies of Cipla
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
 - [Project Link](https://drive.google.com/file/d/1Tdp37AOyo3SN8nPbCKiJKFUKvqku6sK4/view?usp=share_link)
 
 #### A Discussion on CEO Board Relations & CEO Dismissal
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
 - [Project Link](https://www.canva.com/design/DAF96_xdisw/sbrWBUx8rO-7FZCocJAH-g/edit?utm_content=DAF96_xdisw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
