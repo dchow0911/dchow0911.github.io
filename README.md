@@ -32,7 +32,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 - [Project Link](https://drive.google.com/file/d/1TfMeIHh2doYdzbfZnG8X4goWlGHHJ6t1/view?usp=share_link)
 
 #### Data Visualization on Commodity export from India to Canada using Tableau
-- Description: A brief description of what this project is about.
+- Description: Led the development of engaging Tableau dashboards to analyze and enhance India-Canada commodity exports, providing insights and recommendations to boost trade volumes and strengthen bilateral relations.
 - [Project Link](https://public.tableau.com/views/DhruvChowdary_AcademicProject/Opening?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Resume Analyser using Natural Language Processing
@@ -46,7 +46,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 - [Project Link](https://www.canva.com/design/DAFta3B4JaU/p0PNHXH7eUfpYcEVXcmvTQ/edit?utm_content=DAFta3B4JaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### Exploratory Data Analysis for Bank Defaults using Python
-- Description: A brief description of what this project is about.
+- Description: Implemented Exploratory Data Analysis (EDA) for bank defaults using Python and CRISP-DM methodology to identify patterns, mitigate risks, and support informed decision-making in the banking sector.
 - [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/EDA_BankDefaultAnalysis.ipynb)
 - [Project Link](https://drive.google.com/file/d/1ATOR_XQ4Z0LTiQfTLKKJ1FlkAxofprdM/view?usp=share_link)
 
@@ -66,7 +66,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 - [Project Link](https://drive.google.com/file/d/1GxueXpGq3f6D4Xbpw-LqR4Enws_qyuhZ/view?usp=share_link)
 
 #### Digitizing of business operations and developing operational dashboards in Microsoft Excel
-- Description: A brief description of what this project is about.
+- Description: Led the digitalization of business operations by creating operational dashboards and automating processes using advanced Microsoft Excel techniques to enhance efficiency and decision-making.
 - [Excel Sheet](https://docs.google.com/spreadsheets/d/1y13cAnJ7Lg3zy2juUYk01tHm1Uwk_5Yy/edit?usp=share_link&ouid=102142818903203710485&rtpof=true&sd=true)
 - [Project Link](https://drive.google.com/file/d/1xtWtIN-_BDFN6xZxbXyoIAwk3HF6fn7P/view?usp=share_link)
 
@@ -96,7 +96,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 - [Project Link](https://drive.google.com/file/d/1T5BU7hEtiThM7XrObyxwWP-3WxPJkNyf/view?usp=share_link)
 
 #### Financial Analysis of the Mobile & Electronics Industry using Spreadsheet modelling
-- Description: A brief description of what this project is about.
+- Description: Conducted a financial analysis of five Indian mobile and electronics companies using spreadsheet modeling to assess performance across key metrics and provide data-driven strategic insights.
 - [GitHub Repo Link](link)
 - [Project Link](https://drive.google.com/file/d/1AmEROmgyFzcKPi6PxceLgCXa6RZFUKCB/view?usp=share_link)
 
@@ -114,7 +114,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 - [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Advanced%20Data%20Analysis.Rmd)
 
 #### Nike Air into the Metaverse
-- Description: A brief description of what this project is about.
+- Description: Developed a data-driven marketing strategy to introduce Nike Air into the Metaverse, utilizing advanced web technologies and comprehensive analysis to maximize market impact and engagement.
 - [Project Link](https://drive.google.com/file/d/1jG9d53QQQge4FkTtyRF1GsIP5LmJtsxt/view?usp=sharing)
 
 #### Analyzing the International Business Strategies of Cipla
