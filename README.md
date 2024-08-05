@@ -67,7 +67,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 #### Digitizing of business operations and developing operational dashboards in Microsoft Excel
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](https://docs.google.com/spreadsheets/d/1y13cAnJ7Lg3zy2juUYk01tHm1Uwk_5Yy/edit?usp=share_link&ouid=102142818903203710485&rtpof=true&sd=true)
+- [Excel Sheet](https://docs.google.com/spreadsheets/d/1y13cAnJ7Lg3zy2juUYk01tHm1Uwk_5Yy/edit?usp=share_link&ouid=102142818903203710485&rtpof=true&sd=true)
 - [Project Link](https://drive.google.com/file/d/1xtWtIN-_BDFN6xZxbXyoIAwk3HF6fn7P/view?usp=share_link)
 
 #### Hyundai Supply Chain management and analysis
