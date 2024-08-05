@@ -24,42 +24,45 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 ## Featured Projects
 #### Unveiling Real Estate Trends with Data Visualization & Infographics in Power BI
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
 - [Project Link](https://drive.google.com/file/d/17kLSdaLMNlyIfpatHDbFGLk2pNRtvUqd/view?usp=share_link)
 
 #### Real Time Stock Price Analysis using Machine Learning
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Real%20time%20stock%20analysis%20using%20machine%20learning.ipynb)
 - [Project Link](https://drive.google.com/file/d/1TfMeIHh2doYdzbfZnG8X4goWlGHHJ6t1/view?usp=share_link)
 
 #### Data Visualization on Commodity export from India to Canada using Tableau
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
 - [Project Link](https://public.tableau.com/views/DhruvChowdary_AcademicProject/Opening?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Resume Analyser using Natural Language Processing
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Resume_Analyzer.ipynb)
 - [Project Link](https://drive.google.com/file/d/1T5gBxkcMYlkv7zB9EE48ErFCTfhmD78n/view?usp=share_link)
+
+#### Enhanced Product Search for Flipkart
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Enhanced%20Product%20Search%20for%20Flipkart.ipynb)
+- [Project Link](https://www.canva.com/design/DAFta3B4JaU/p0PNHXH7eUfpYcEVXcmvTQ/edit?utm_content=DAFta3B4JaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### Exploratory Data Analysis for Bank Defaults using Python
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/EDA_BankDefaultAnalysis.ipynb)
 - [Project Link](https://drive.google.com/file/d/1ATOR_XQ4Z0LTiQfTLKKJ1FlkAxofprdM/view?usp=share_link)
 
 #### Airfare Prediction using Predictive Analytics in R Programming
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/flightpriceprediction.R)
 - [Project Link](https://drive.google.com/file/d/1TeLtb6uDfwtVU66LICDSS_B_LY-42P6z/view?usp=share_link)
 
 #### Dog Emotions Classifier using Deep Learning and Artificial Intelligence
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/DogEmotionsClassifier_Code.ipynb)
 - [Project Link](https://drive.google.com/file/d/1TEHIrtaqJ4JiRe2xPR4w5zsWzZZaFDLw/view?usp=share_link)
 
 #### Backend and Database structuring of an app using MySQL and Big Data
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/lyfmatters.sql)
 - [Project Link](https://drive.google.com/file/d/1GxueXpGq3f6D4Xbpw-LqR4Enws_qyuhZ/view?usp=share_link)
 
 #### Digitizing of business operations and developing operational dashboards in Microsoft Excel
@@ -69,12 +72,12 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 #### Hyundai Supply Chain management and analysis
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [Excel Sheet](https://docs.google.com/spreadsheets/d/18UJ4VRy4f_G4s9lEJg2CAI8eKjyU_pNt/edit?usp=sharing&ouid=102142818903203710485&rtpof=true&sd=true)
 - [Project Link](https://drive.google.com/file/d/1TUsp5dnoX1Qrhrw1maBGTIJj3QP9CMne/view?usp=share_link)
 
 #### Student Course Selection Advisor using Multi-Criteria Decision Making Techniques
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [Excel Sheets](https://drive.google.com/drive/folders/1FfzrFr_eiFmkGhkNMNwvbUeQbt1CaPAY?usp=sharing)
 - [Project Link](https://drive.google.com/file/d/1TOwG7nZUquavCpEs8uj9-v3UWwwxvdhc/view?usp=share_link)
 
 #### Product and Brand Audit of iYogi
@@ -89,7 +92,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 #### Strategies to curb consumer attrition in the airline industry using data analysis
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link](link)
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Dhruv%20Chowdary_Dissertation-Final.ipynb)
 - [Project Link](https://drive.google.com/file/d/1T5BU7hEtiThM7XrObyxwWP-3WxPJkNyf/view?usp=share_link)
 
 #### Financial Analysis of the Mobile & Electronics Industry using Spreadsheet modelling
@@ -101,6 +104,14 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 - Description: A brief description of what this project is about.
 - [GitHub Repo Link](link)
 - [Project Link](https://drive.google.com/file/d/1T6dVlsNExXhKwORf66Hn7vrB8cyjMjC6/view?usp=share_link)
+
+#### Econometrics and Statistics in R
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Econometrics%20&%20Statistics%20in%20R.R)
+
+#### Advanced Data Analysis in R
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](https://github.com/dchow0911/projects/blob/main/Advanced%20Data%20Analysis.Rmd)
 
 #### Nike Air into the Metaverse
 - Description: A brief description of what this project is about.
