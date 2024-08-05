@@ -16,24 +16,107 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 
 ## Technologies and Tools
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Django
-- **Tools:** Git, Docker, VSCode
+- **Languages:** Python, R
+- **Frameworks/Libraries:** 
+- **Tools:** Tableau, Power BI, Alteryx Designer, MS Office, Figma
+- **Other:** BPMN 2.0
 
 ## Featured Projects
-### [Project 1 Name]
+#### Unveiling Real Estate Trends with Data Visualization & Infographics in Power BI
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link]
-- [Live Demo Link] (if applicable)
+- [GitHub Repo Link](link)
+- [Project Link](link)
 
-### [Project 2 Name]
+#### Real Time Stock Price Analysis using Machine Learning
 - Description: A brief description of what this project is about.
-- [GitHub Repo Link]
-- [Live Demo Link] (if applicable)
+- [GitHub Repo Link](link)
+- [Project Link](link)
 
-## Open Source Contributions
-- [Repository Name]: Contributed [Feature/Bug Fix]
-- [Repository Name]: Contributed [Feature/Bug Fix]
+#### Data Visualization on Commodity export from India to Canada using Tableau
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Resume Analyser using Natural Language Processing
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Exploratory Data Analysis for Bank Defaults using Python
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Airfare Prediction using Predictive Analytics in R Programming
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Dog Emotions Classifier using Deep Learning and Artificial Intelligence
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Backend and Database structuring of an app using MySQL and Big Data
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Digitizing of business operations and developing operational dashboards in Microsoft Excel
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Hyundai Supply Chain management and analysis
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Student Course Selection Advisor using Multi-Criteria Decision Making Techniques
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Product and Brand Audit of iYogi
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Understanding the Strategies of DELHIVERY in Emerging Markets
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Strategies to curb consumer attrition in the airline industry using data analysis
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Financial Analysis of the Mobile & Electronics Industry using Spreadsheet modelling
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### APV Analysis of Maersk's CapEx
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Nike Air into the Metaverse
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### Analyzing the International Business Strategies of Cipla
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
+#### A Discussion on CEO Board Relations & CEO Dismissal
+- Description: A brief description of what this project is about.
+- [GitHub Repo Link](link)
+- [Project Link](link)
+
 
 ## GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
