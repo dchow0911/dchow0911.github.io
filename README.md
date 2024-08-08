@@ -24,7 +24,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 ## Featured Projects
 #### Unveiling Real Estate Trends with Data Visualization & Infographics in Power BI
 - Used Power BI to analyze real estate trends, focusing on a 187-day closing duration, and proposed strategies to reduce transaction costs by 20% and optimize deal closure times through predictive analytics.
-- [Project Link](https://drive.google.com/file/d/17kLSdaLMNlyIfpatHDbFGLk2pNRtvUqd/view?usp=share_link)
+- [Project Link](https://drive.google.com/file/d/1OAfcdKYGdW7LrhQbuR9PU9THjv2-EJIe/view?usp=share_link)
 
 #### Real Time Stock Price Analysis using Machine Learning
 - Analyzed historical and real-time data of 24 Indian stocks using machine learning in Python to build a diversified portfolio, optimizing for return and risk, and employing techniques like SVM classification and triple exponential smoothing for forecasting.
