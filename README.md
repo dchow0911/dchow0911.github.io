@@ -20,6 +20,7 @@ Check out a book I authored on data visualization, titled, ["Visualize to Mesmer
 
 
 ## Technologies and Tools
+- **Cloud Technologies:** AWS
 - **Languages:** Python, R
 - **Frameworks/Libraries:** 
 
