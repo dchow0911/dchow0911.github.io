@@ -5,14 +5,14 @@
 - 🎓 MBA in Analytics from Indian Institute of Management (IIM) Kashipur
 - ☁️ AWS Certified Cloud Practitioner | Passionate about continuous learning
 - 🌱 Building expertise in: AWS, Azure, Python, R, Tableau, Power BI, Alteryx Designer, AI & Automation in MS Office, Salesforce, Zoho, Hubspot and Figma
-- 📫 Reach me at Email [mailto:chowdarydhruv7@gmail.com] or connect with me on LinkedIn[https://www.linkedin.com/in/dhruv-chowdary]
+- 📫 Reach me at [Email](mailto:chowdarydhruv7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv-chowdary)
 
 ## Portfolio
 Check out my [portfolio site](https://dchow0911.github.io) to see my projects and learn more about me!
 
 Check out my [digital resume](https://chowdarydhruv7.wixsite.com/myresume) to view my journey so far!
 
-Check out my first podcast [https://youtu.be/3CtC6jUD6TE], where I share my insights on Data Science Revolution!
+Check out my first [PODCAST](https://youtu.be/3CtC6jUD6TE), where I share my insights on Data Science Revolution!
 
 Here is an answer to, [Why Am I your Ideal Candidate?](https://public.tableau.com/views/WhyAmIyourIdealCandidate/WhyMe?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
